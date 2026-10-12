@@ -1,15 +1,16 @@
 {
     "trabajadores": [
-        {
-            "apellidos": "Orts Franco",
-            "nombre": "José Manuel",
-            "dni": "23277131G"
-        }
+        "Juan Pérez",
+        "María Gómez",
+        "Antonio López",
+        "Pedro Sánchez",
+        "Lucía Martín"
     ],
     "clientes": [
         "Hortalizas Almanzora",
         "SAT Peregrin",
         "Petrea Agricola",
-        "PDM Sevilla"
+        "PDM Sevilla",
+        "Ajos la guijarrosa"
     ]
 }
