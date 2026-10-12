@@ -1,10 +1,10 @@
 {
     "trabajadores": [
-        "Juan Pérez",
-        "María Gómez",
-        "Antonio López",
-        "Pedro Sánchez",
-        "Lucía Martín"
+        {
+            "apellidos": "Orts Franco",
+            "nombre": "José Manuel",
+            "dni": "23277131G"
+        }
     ],
     "clientes": [
         "Hortalizas Almanzora",
