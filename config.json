@@ -1,0 +1,14 @@
+{
+  "trabajadores": [
+    "Juan Pérez",
+    "María Gómez",
+    "Antonio López",
+    "Pedro Sánchez",
+    "Lucía Martín"
+  ],
+  "clientes": [
+    "Hortalizas Almanzora",
+    "SAT Peregrin",
+    "Petrea Agricola"
+  ]
+}
