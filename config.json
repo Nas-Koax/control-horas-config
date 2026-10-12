@@ -4,7 +4,12 @@
         "María Gómez",
         "Antonio López",
         "Pedro Sánchez",
-        "Lucía Martín"
+        "Lucía Martín",
+        {
+            "apellidos": "Orts Franco",
+            "nombre": "Jose Manuel",
+            "dni": "23277131G"
+        }
     ],
     "clientes": [
         "Hortalizas Almanzora",
